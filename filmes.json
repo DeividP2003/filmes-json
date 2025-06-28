@@ -1,0 +1,8 @@
+[
+  {
+    "titulo": "Exemplo de Filme",
+    "descricao": "Descrição do filme de exemplo.",
+    "capa": "https://link-da-imagem.com/capa.jpg",
+    "url": "https://link-do-filme.com"
+  }
+]
