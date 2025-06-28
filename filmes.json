@@ -1,8 +1,7 @@
 [
   {
-    "titulo": "Filme A",
-    "descricao": "Descrição A",
-    "imagem": "url_da_imagem"
-  },
-  ...
+    "titulo": "Filme Teste",
+    "descricao": "Descrição teste para verificar app",
+    "imagem": "https://via.placeholder.com/150"
+  }
 ]
