@@ -1,8 +1,8 @@
 [
   {
-    "titulo": "Vingadores: Ultimato",
-    "descricao": "Descrição do filme de exemplo.",
-    "capa": "https://i.imgur.com/YOZtB7U.jpg",
-    "url": "https://link-do-filme.com"
-  }
+    "titulo": "Filme A",
+    "descricao": "Descrição A",
+    "imagem": "url_da_imagem"
+  },
+  ...
 ]
